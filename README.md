@@ -17,8 +17,8 @@ The algorithm is implemented by modifying the source code of the Ad hoc On-Deman
 To run the simulation with this code, follow these steps:
 
 1. Copy the `AOMDV-CLUSTER.cc` file and place it in the `/YOUR-NAME/ns-allinone-2.35/ns-2.35/aomdv.cc` directory.
-2. Compile the code.
-3. Define the vector data in line 2029 and declare the number of nodes in line 121.
+2. Define the vector data in line 2029 and declare the number of nodes in line 121.
+3. Compile the code.
 4. You will need the `aomdv.tcl` file, the communication file, and the scene file to run the simulation.
 5. Launch the simulation.
 
